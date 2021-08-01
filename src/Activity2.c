@@ -12,7 +12,7 @@
 
 #include <avr/io.h>
 #include<util/delay.h>
-#include "../inc/Activity2.h"
+#include "Activity2.h"
 #define F_CPU 1600000UL
 
 void InitADC()
