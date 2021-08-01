@@ -13,10 +13,10 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include "../inc/Activity1.h"
-#include "../inc/Activity2.h"
-#include "../inc/Activity3.h"
-#include "../inc/Activity4.h"
+#include "Activity1.h"
+#include "Activity2.h"
+#include "Activity3.h"
+#include "Activity4.h"
 /**
  * @brief Main function where the code execution starts
  * 
